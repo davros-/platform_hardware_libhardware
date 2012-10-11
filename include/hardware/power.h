@@ -128,3 +128,4 @@ typedef struct power_module {
 __END_DECLS
 
 #endif  // ANDROID_INCLUDE_HARDWARE_POWER_H
+
